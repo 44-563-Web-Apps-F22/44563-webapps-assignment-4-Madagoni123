@@ -16,7 +16,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-.direction-hover{
+.direction:hover{
     color:deeppink;
     background-color: green;
 }
@@ -41,3 +41,19 @@
 .ANN{
     color:darkmagenta;
 }
+table,th,td{
+    margin: 1px solid blue;
+    border-collapse: collapse;
+    width: 30%;
+}
+
+th {
+    padding: 14px;
+    text-align: right;
+    background-color:red;
+    color: purple;
+  }
+  td{
+    padding: 6px;
+  }
+  tr:nth-child(even){background-color: green;}
