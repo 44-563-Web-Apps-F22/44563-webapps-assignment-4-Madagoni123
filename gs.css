@@ -1,18 +1,18 @@
 .speech{
     color: black;
-    font-size: small;
+    font-size: 18px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .song{
     color:black;
-    font-size: smaller;
+    font-size: 12px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 .direction{
     color:black;
     background-color:beige ;
-    font-size: xx-small;
+    font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
@@ -22,11 +22,11 @@
 }
 
 .name{
-    color:chocolate;
-    font-size: larger;
+    color:black;
+    font-size: 2;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.CHO{
+.CHORUS{
     color:crimson;
 }
 .MAR{
