@@ -57,3 +57,11 @@ th {
     padding: 6px;
   }
   tr:nth-child(even){background-color: green;}
+  .name:hover{
+    border:2px dashed darkorange;
+    text-shadow: 5px 5px 10px green; 
+    
+  }
+  .name{
+    padding: 5px;
+  }
